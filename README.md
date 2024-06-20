@@ -13,11 +13,7 @@ src/include/postmaster/bg_worker.h
 
 src/backend/include/nodes/execnodes.h
 
-<<<<<<< HEAD
-src/backend/executor/execProcnode.c
-=======
 src/backend/executor/nodeNestloop.c
->>>>>>> b11b38619159d47f60d7e31e0d1f17c8309155e2
 
 ## Instructions
 
