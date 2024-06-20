@@ -17,9 +17,9 @@ src/backend/executor/execProcnode.c
 
 ## Instructions
 
-Set block size of BLNJ in PostgreSQL:
+Set block size of BNLJ in PostgreSQL:
 ```bash
-SET blnj_block_size = $BLOCKSIZE$;
+SET bnlj_block_size = $BLOCKSIZE$;
 ```
 
 If the query timing information is needed, turn it on with:
