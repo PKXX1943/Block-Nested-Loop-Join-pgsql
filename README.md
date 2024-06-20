@@ -6,9 +6,13 @@ Check the PDF report for more detail.
 ## Source Code
 
 Replace these files in the source codes of PostgreSQL-12.0:
+
 src/backend/utils/misc/guc.c
+
 src/include/postmaster/bg_worker.h
+
 src/backend/include/nodes/execnodes.h
+
 src/backend/executor/execProcnode.c
 
 ## Instructions
